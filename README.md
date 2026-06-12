@@ -1,16 +1,19 @@
-## Hi there 👋
+# Salut moi c'est Theophile123 ! 👋
 
-<!--
-**theophile123/theophile123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 À propos de moi
+* 🎓 Je suis actuellement étudiant en prépa intégrée à Cy Tech en maths&info.*
+* 💡 Passionné par les nouvelles technologie comme l'IA et le robotic.*
+* 🌱 En ce moment, je me perfectionne sur une main robotic maison.*
+* - J'aime me lancer dans des projet en groupe qui me passionne, n'hesiter pas à me contacter. *
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mon Stack Technique (Ce que j'utilise)
+| Langages | Outils & Frameworks |
+| :--- | :--- |
+| 💻 Python, HTML, CSS3, C | 🛠️ VS Code, Git, GitHub |
+
+---
+
+### 📫 Me contacter
+* **Linkedin :*www.linkedin.com/in/théophile-de-veyrac-06788426a* 
