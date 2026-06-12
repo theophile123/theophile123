@@ -14,6 +14,9 @@
 | 💻 Python, HTML, CSS, C | 🛠️ VS Code, Git, GitHub |
 
 ---
+### Mon dernier projet 
+* Un jeu en C coder avec mon groupe de 3 : *https://github.com/Project-MI-1-A-Flip7-GAME/Projet-MI-A*
+---
 
 ### 📫 Me contacter
 Linkedin :*www.linkedin.com/in/théophile-de-veyrac-06788426a* 
